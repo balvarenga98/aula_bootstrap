@@ -1,0 +1,18 @@
+.navbar {background-color: whitesmoke;}
+.quem-somos {background-color:wheat;
+color: black;}
+.margin {padding-top: 50px;
+padding-bottom: 50px;}
+
+.rounded-circle {margin: 20px;}
+body {font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;}
+
+.parceiros {background-color: wheat;}
+
+.servicos {background-color: wheat;}
+
+.bg-footer {background-color: tomato;
+margin: 0px;
+height: 50px;
+padding-top: 10px;}
